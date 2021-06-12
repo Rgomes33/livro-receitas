@@ -1,6 +1,6 @@
-# Livro de Receitas  
+# Livro de Receitas :man_cook:  
 
-##Receita de Lasanha
+##Receita de Lasanha :shallow_pan_of_food:
 
 #### Criado Por: Raul Gomes
 
